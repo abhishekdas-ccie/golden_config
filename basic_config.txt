@@ -4,3 +4,5 @@ hostname Router_1
 ntp server 2.2.2.2
 ip name-server 4.2.2.2
 ip domain name networks2gether.com
+interface Loopback0
+ ip address 1.1.1.1 255.255.255.255
