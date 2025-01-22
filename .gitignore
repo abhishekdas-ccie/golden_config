@@ -1,0 +1,4 @@
+*.log
+api_key.txt
+temp_file.txt
+.env
