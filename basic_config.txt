@@ -1,5 +1,5 @@
 !
-hostname Router_1
+hostname Router_new
 !
 ntp server 5.5.5.5
 ip name-server 4.2.2.2
