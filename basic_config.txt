@@ -13,5 +13,5 @@ interface GigabitEthernet0/0
  description Management Interface
  ip address 10.10.10.1 255.255.255.0
 interface GigabitEthernet0/1
- description Connected to Core Switch 1
+ description Connected to Core Switch 1 - Faulty Port
  ip address 20.20.20.1 255.255.255.0
